@@ -1,0 +1,36 @@
+
+Filename: powerslave.nfo
+ggT_by_RSchenk.sh
+Erstellt am 16. Februar 2014 / Alles was danach 
+kommt und so aussieht ist geklaut. ;-)
+
+
+Contents:
+ggT_by_RSchenk.zip
+	- ggT_by_RSchenk.sh
+	- powerslave.nfo
+
+Getestet auf:
+		CentOS 6.5
+		vmLP1 / Debian mit KDE
+		OSX 10.9 Mavericks
+		Raspbian / ARM Debian
+
+
+Anleitung für RHL / Debian / OSX und Retorte:
+-----------------------------------------------
+1. ggt_by_RSchenk.sh Berechtigung setzen
+-----------------------------------------------
+chmod 700 ggt_by_RSchenk.sh
+-----------------------------------------------
+2. Ausführen
+-----------------------------------------------
+./ggt_by_RSchenk.sh 
+-----------------------------------------------
+3. Anweisungen in der Konsole folge leisten.
+-----------------------------------------------
+Ende
+-----------------------------------------------
+
+Kontakt:
+	Ram.schenk@gmail.com / info@powerslave.ch
