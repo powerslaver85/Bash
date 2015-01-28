@@ -20,6 +20,7 @@
 #|Note:      TODO: Blabla                                                                                               |
 #========================================================================================================================
 #TODO: Script fertigschreiben
+
 cd /src/backupgit
 
 ls -F . | grep / > /tmp/.gitmissing1
